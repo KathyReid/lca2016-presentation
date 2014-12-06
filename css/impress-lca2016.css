@@ -27,7 +27,6 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
     line-height: 1;
-    
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
    
     
@@ -35,11 +34,17 @@ body {
 
 #background-image {
 	background: white url('../images/3847913112_48afd31b34_o.jpg') center center; 
-	opacity: 0.4;
-	
-	/* background: white url('../images/Geelong-Wave-Gradient.svg') center center; */	
-	min-height: 2592px;
+	opacity: 0.4;	
+	min-height: 1500px;
 }
+
+#logo {
+	background: url('../images/Geelong-Wave-Gradient.svg') no-repeat right top; 	
+	min-height: 374px;
+	min-width: 1024px;
+}
+
+
 
 
 
@@ -51,11 +56,35 @@ blockquote, q {
 }
 p {
 	font-size: 300%;
-	text-shadow: -3px 0 white, 0 3px white, 3px 0 white, 0 -3px white;
+	text-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
 	line-height: 105%;
 	text-align: center;
 	color: #00002d;
 }
+
+h1 {
+	font-size: 300%;
+	color: #00002d;
+	line-height: 105%;
+}
+
+.lca2016-list li {
+	display: block;	
+	background-color: #00002d;
+	padding: 2%;
+	margin: 1%;
+	color: whitesmoke;
+	font-weight: 300;
+	font-size: 65%;
+	line-height: 105%;
+}
+
+.lca2016-list li em {
+	font-style: italic;
+	font-size: 80%;
+}
+
+
 blockquote:before, blockquote:after,
 q:before, q:after {
     content: '';
@@ -118,14 +147,6 @@ a:focus {
 
 .impress-enabled .step.active { opacity: 1 }
 
-/*
-    These 'slide' step styles were heavily inspired by HTML5 Slides:
-    http://html5slides.googlecode.com/svn/trunk/styles.css
-
-    ;)
-
-    They cover everything what you see on first three steps of the demo.
-*/
 .slide {
 }
 
@@ -139,11 +160,6 @@ a:focus {
 
 
 
-h1 {
-	font-size: 200%;
-	color: #21759b;
-	line-height: 105%;
-}
 
 
 #overview { display: none }

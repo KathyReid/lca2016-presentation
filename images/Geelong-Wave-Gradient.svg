@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="25000"
-   height="10000"
+   width="1024"
+   height="373.39252"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -61,9 +61,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.030937959"
-     inkscape:cx="402.47341"
-     inkscape:cy="150.01441"
+     inkscape:zoom="0.17469676"
+     inkscape:cx="2456.2945"
+     inkscape:cy="477.16491"
      inkscape:document-units="px"
      inkscape:current-layer="text2985"
      showgrid="false"
@@ -80,11 +80,11 @@
      fit-margin-bottom="0">
     <sodipodi:guide
        orientation="1,0"
-       position="-8.8343172e-05,243.79744"
+       position="-10084.699,-4249.0651"
        id="guide3815" />
     <sodipodi:guide
        orientation="1,0"
-       position="822.59355,229.28198"
+       position="-9262.1038,-4263.5805"
        id="guide3866" />
   </sodipodi:namedview>
   <metadata
@@ -103,13 +103,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-97.834734,9206.104)">
+     transform="translate(-10182.534,4072.3591)">
     <g
        style="font-size:127.08488464px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Fonarto;-inkscape-font-specification:Fonarto"
        id="text2985">
       <g
          id="g3034"
-         transform="matrix(6.0767889,0,0,6.0767889,9588.0131,-8523.301)">
+         transform="matrix(1.2445264,0,0,1.2445264,10060.776,-4686.9903)">
         <path
            id="path2990"
            style="font-size:228.75279236px;letter-spacing:-9.97999954px;fill:#00002d;fill-opacity:1"
