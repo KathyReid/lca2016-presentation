@@ -16,7 +16,7 @@ time, mark, audio, video {
     padding: 0;
     border: 0;
     font-size: 100%;
-    font: inherit;
+    font: Cantarell;
     vertical-align: baseline;
 }
 
@@ -27,7 +27,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
     line-height: 1;
-    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-family: Cantarell,"Open Sans", Helvetica, Arial, sans-serif;
    
     
 }
