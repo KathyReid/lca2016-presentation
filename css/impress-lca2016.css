@@ -45,6 +45,8 @@ img.bg {
   position: fixed;
   top: 0;
   left: 0;
+  
+  opacity: 0.7;
 }
 
 @media screen and (max-width: 1024px) { /* Specific to this particular image */
@@ -72,24 +74,25 @@ blockquote, q {
 }
 p {
 	font-size: 300%;
-	text-shadow: -4px 0 white, 0 4px white, 4px 0 white, 0 -4px white;
 	line-height: 105%;
 	text-align: center;
-	color: #00002d;
+	color: #00dbe2;
+	-webkit-text-stroke: 4px #00002d;
 }
 
 h1 {
 	font-size: 300%;
-	color: #00002d;
+	color: #00dbe2;
 	line-height: 105%;
+	-webkit-text-stroke: 4px #00002d;
 }
 
 .lca2016-list li {
 	display: block;	
-	background-color: #00002d;
+	background-color: #00dbe2;
 	padding: 2%;
 	margin: 1%;
-	color: whitesmoke;
+	color: #00002d;
 	font-weight: 300;
 	font-size: 65%;
 	line-height: 105%;
