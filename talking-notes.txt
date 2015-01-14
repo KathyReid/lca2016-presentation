@@ -1,18 +1,14 @@
 SLIDE #1 - #lca2015 was pretty awesome
 
-# Thank Cherie and team for a great conference
+# Thank you Cherie and team for a great conference!
 # Lead a round of applause for the conference team and volunteers
+# We had a really fantastic time
 
 
 
 SLIDE #2 - do it all again next year
 
-# So, you totally want to do this all again next year, right?
-# Right??!!!
-
-Audience: yeahh!!!!
-
-(I can't hear you!!!)
+# So you all want to do it again next year, right?
 
 
 
@@ -21,23 +17,58 @@ SLIDE #3 - So do we!
 
 SLIDE #4 - Where
 
-# cover the details of where the conference will be
+# Geelong!
+# Located just outside of Melbourne
+# 1 hour by car or train from Melbourne
+# 1 hour, 15 minute drive from Melbourne Airport; and
+# 20 minutes from Avalon Airport
+# We will be running shuttle buses for delegates flying in
+# For reference, Ballarat is just at the top left corner of this map
 
-SLIDE #5 - Accomm
+SLIDE #5 - Venue
 
-# talk about range of Accommodation options
+# Our venue is Deakin University, Waterfront Campus
+# We'll be using Costa Hall, which is in Geelong's old converted woolstores
+# It's 1500 seats and an awesome space
 
-SLIDE #6 - When
 
-# talk about date range - and javascript countdown
+SLIDE #6 - Accomm
 
-SLIDE #7 - What
+# Student Accommodation is available at Deakin's Waurn Ponds Campus
+# This is located a 15 minute bus ride away
+# We will be running continual shuttle buses from morning to evening
 
-# cover the conference topic - LIFE IS BETTER WITH LINUX
-# keynotes locked in
-# talk up coffee shops, beach pub etc
+SLIDE #7 - When
 
-***** more slides to come in here of photos
+# Our dates are 8th until 12th of February 2016, subject to final confirmation from Deakin University
+# Call For Papers will open 1st June 2015.
+# The infamous Michaels are heading up our Papers Committee this year.
+# They want to hear from you. Start thinking about what you want to present NOW.
+# Rego will be opened and announced in due course
 
-SLIDE #9 - tinkering with stuff
-# atthis point, hand out NFC keytags
+SLIDE #8 - What
+
+# Our conference theme is "life is better with linux".
+# We're especially interested in your projects involving Internet of Things, how you're helping people, and you're Free and Open Source Software is being used to improve our lives
+# We've got four _awesome_ keynotes already confirmed or in serious discussions
+# Geelong is full of delicious coffee shops, pubs, and eateries. We've got great beaches, vinyards, and we can't wait for you to join us.
+
+SLIDE #9 - Schwag
+
+# We've got NFC Key Tags, we've got enough for one each
+# They're reprogrammable, hack them, build things, share your awesome with us.
+# iPhone users, sorry... not sorry.
+
+Slide #10 - More info?
+
+# Hit us up on our website: lcabythebay.org.au
+# We'll be commandeering the LCA twitter account soon
+# Find us on Facebook
+# And join the LCA and LA Announce Lists
+
+Slide #11 - End
+
+# So that's all for me.
+# We're really looking forward to seeing you all in Geelong
+# 8th - 12th Feb
+# Thank you
