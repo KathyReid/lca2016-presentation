@@ -78,6 +78,7 @@ p {
 	text-align: center;
 	color: #00dbe2;
 	-webkit-text-stroke: 4px #00002d;
+	text-shadow: 4px 4px 0 #00002d, -1px -1px 0 #00002d, -1px 1px 0 #00002d, 1px -1px 0 #00002d, 1px 1px 0 #00002d;
 }
 
 h1 {
@@ -85,15 +86,14 @@ h1 {
 	color: #00dbe2;
 	line-height: 105%;
 	-webkit-text-stroke: 4px #00002d;
+	text-shadow: 4px 4px 0 #00002d, -1px -1px 0 #00002d, -1px 1px 0 #00002d, 1px -1px 0 #00002d, 1px 1px 0 #00002d;
 }
 
 h2 {
 	font-size: 120%;
 	text-align: center;
-	/*color: #00dbe2;*/
 	color: #00002d;
 	line-height: 110%;
-	/*-webkit-text-stroke: 2px #00002d;*/
 }
 
 .lca2016-list li {
